@@ -1,0 +1,12 @@
+org\example\Pages\UserPage$1.class
+org\example\Pages\UserPage.class
+org\example\Constants\ButtonForLogin.class
+org\example\Constants\ButtonForConstructor.class
+org\example\Pages\HomePage$1.class
+org\example\Constants\SectionName.class
+org\example\User.class
+org\example\Pages\LoginPage.class
+org\example\UserCreate.class
+org\example\Pages\RegisterPage.class
+org\example\Pages\PasswordPage.class
+org\example\Pages\HomePage.class
